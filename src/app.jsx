@@ -28,3 +28,11 @@ root.render(
   </React.StrictMode>
 )
 
+function CheckUser(){
+
+}
+
+function AddtoCollection()
+{
+    
+}
