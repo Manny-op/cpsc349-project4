@@ -5,7 +5,7 @@
 - Kirsten Ochoa (ochoakirsten@csu.fullerton.edu)
 - Chingsan Ly 
 - Alex Ly
-- Emmanuel Salcedo
+- Emmanuel Salcedo (emsalcedo@csu.fullerton.edu)
 
 ## Project Info
 
